@@ -113,24 +113,3 @@ footer {
   color: rgb(245, 178, 55);
   padding-top: 40px;
 }
-/* style footer icons */
-.fa {
-  padding: 20px;
-  font-size: 40px;
-  width: 5%;
-  text-align: center;
-  text-decoration: none;
-  opacity: 0.6;
-}
-.fa:hover {
-  opacity: 0.5;
-}
-.fa-linkedin {
-  color:dodgerblue;
-}
-.fa-github {
-  color: black;
-}
-a {
-  color: rgb(245, 178, 55);
-}
